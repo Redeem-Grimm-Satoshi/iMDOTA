@@ -1,2 +1,2 @@
 # iMDOTA
-A Single Page Project Description Site
+All About Typhoid Fever and How To Defeat it
